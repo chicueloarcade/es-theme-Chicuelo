@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>MONOCHROME CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi,</text>
+  </text>
+ </view>
+</theme>

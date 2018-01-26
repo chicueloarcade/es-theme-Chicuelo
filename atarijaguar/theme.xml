@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>64 CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Sixth and last programmable console to be developed under the Atari brand, originally released in North America in November 1993</text>
+  </text>
+ </view>
+</theme>

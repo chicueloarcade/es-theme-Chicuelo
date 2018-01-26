@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>8 BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Nintendo's second handheld system following the Game & Watch series introduced in 1980. It mainly competed with Game Gear and Lynx</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>8 BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Master System also featured accessories such as a light gun and 3D glasses which were designed to work with specially coded games</text>
+  </text>
+ </view>
+</theme>

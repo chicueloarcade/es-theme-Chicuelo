@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>FAVORITE TITLES</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Access and play quickly your favorite games in this library among all your systems</text>
+  </text>
+ </view>
+</theme>

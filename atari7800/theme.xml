@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>8 BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>It is almost fully backward-compatible with the Atari 2600, the first console to have backward compatibility without the use of additional modules</text>
+  </text>
+ </view>
+</theme>
