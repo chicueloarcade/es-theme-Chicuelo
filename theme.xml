@@ -72,9 +72,7 @@ Special thanks to EctoOne who help on the improvement of this theme and it looks
 	<pos>0.23 0.58</pos>
 	<size>0.20 0.1</size>
  </text>
-
-<!-- System Indicator
-
+ 
  <image name="indicator" extra="true">
 	<path>./_assets/indicators/${system.theme}.png</path>
 	<tile>false</tile>
@@ -83,7 +81,6 @@ Special thanks to EctoOne who help on the improvement of this theme and it looks
 	<size>0.008 0.65</size>
   </image>
 
--->
 
  <image name="character" extra="true">
 	<path>./_assets/characters/${system.theme}.jpg</path>
@@ -168,7 +165,7 @@ Special thanks to EctoOne who help on the improvement of this theme and it looks
 	<pos>0.07 0.12</pos>
 	<size>0.395 0.75</size>
 	<fontSize>0.03</fontSize>
-	<lineSpacing>1.62</lineSpacing>
+	<lineSpacing>1.70</lineSpacing>
 	<horizontalMargin>0.05</horizontalMargin>
 </textlist>
 
