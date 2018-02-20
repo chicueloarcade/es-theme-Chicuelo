@@ -10,7 +10,7 @@ Special thanks to EctoOne who help on the improvement of this theme and it looks
 
 <theme>
 <formatVersion>4</formatVersion>
- 
+
 
 <!-- System View -->
 
@@ -72,7 +72,7 @@ Special thanks to EctoOne who help on the improvement of this theme and it looks
 	<pos>0.23 0.58</pos>
 	<size>0.20 0.1</size>
  </text>
- 
+  <!--
  <image name="indicator" extra="true">
 	<path>./_assets/indicators/${system.theme}.png</path>
 	<tile>false</tile>
@@ -80,7 +80,7 @@ Special thanks to EctoOne who help on the improvement of this theme and it looks
 	<pos>0.028 0.5</pos>
 	<size>0.008 0.65</size>
   </image>
-
+-->
 
  <image name="character" extra="true">
 	<path>./_assets/characters/${system.theme}.jpg</path>
