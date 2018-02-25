@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>16 BIT DISC CONSOLE</text>
+   <text>SOFTWARE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>CD-ROM add-on to the Genesis, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB</text>
+   <text>Multi-platform ports of software and game engines.</text>
   </text>
  </view>
 </theme>
