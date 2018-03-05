@@ -36,23 +36,37 @@ I'm very thankful for having the chance to work with you guys!
 
 Theme Preview:
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/10baef56793299.5a5ccc4379b95.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/de6a6e56793299.5a901e871f4d6.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa411f56793299.59bc2cc71a6e8.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/077cf556793299.5a901e871b78d.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/46842556793299.59bc60d711eee.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1c7d1f56793299.5a901e871c02c.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/13526f56793299.59bc60d7112d9.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/762a7356793299.5a901e871c41f.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/554a3c56793299.59bc2cc71e8fa.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/393c5056793299.5a901e871d3ea.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/37dbb556793299.59bc2cc71a9e3.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/788da956793299.5a901e871fb25.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2266cc56793299.59bc60d7133b9.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/15e02556793299.5a901e871b26a.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/00f5c956793299.59bc71b03266f.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b391d456793299.5a901e871af73.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c811db56793299.59bc71afe22ef.jpg)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bb07756793299.5a901e871e638.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c70daf56793299.5a901e871da4a.jpg)
+
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/96d39956793299.5a9db48b738d9.jpg)
+
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/4951b556793299.5a9db48b72883.jpg)
+
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/c61c9156793299.5a9db48b72d42.jpg)
+
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/525ed256793299.5a9db48b73439.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6a10f156793299.5a901e871eb31.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e4607b56793299.5a901e871dd61.jpg)
 
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e512056793299.59bc6315a87d6.jpg)
 
@@ -80,26 +94,31 @@ FOR A BETTER USER EXPERIENCE DISABLE ON-SCREEN HELP, SET THE UI TRANSITION STYLE
 Fully supported systems:
 
 ```
-FBA
+3do
+Amiga
 Arcade
-Mame Libretro
 Atari 2600
-Sega Gamegear
+Atari Lynx
+FBA
+MAME
+Mame Libretro
+Neo Geo
 Nintendo Game boy
 Nintendo Game boy Advance
 Nintendo Game boy Color
-Sega Genesis
-MAME
-Sega Master System
-Sega Megadrive
 Nintendo 64
-Neo Geo
 Nintendo Entertainment System 
 PCEngine / Turbografx 16
-Sony Playstation
+Playstation 1
+ScummVm
+Sega Gamegear
+Sega Genesis
 Sega Dreamcast
-Sega 32x / CD
+Sega 32x
+Sega CD
+Sega Master System
 Super Nintendo Entertainment System
+Sega Megadrive
 Retropie setup
 Auto - Favorites
 Auto - Last Played
@@ -110,8 +129,6 @@ Power Menu in case you have one, name it power o rename the folder
 Systems with the logo but character and controller missing
 
 ```
-3do
-Amiga
 Apple2
 Atari800
 Atari5200
