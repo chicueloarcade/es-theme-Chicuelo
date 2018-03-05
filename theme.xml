@@ -8,12 +8,11 @@ font: Roboto-Medium.ttf
 Special thanks to EctoOne who help on the improvement of this theme and it looks great in any resolution thanks him!
 
 Special thanks to Cosmo0 too who contribute with some art, various logos and important information!
-
 -->
 
 <theme>
 <formatVersion>4</formatVersion>
-
+ 
 
 <!-- System View -->
 
@@ -75,7 +74,7 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<pos>0.23 0.58</pos>
 	<size>0.20 0.1</size>
  </text>
-  <!--
+ 
  <image name="indicator" extra="true">
 	<path>./_assets/indicators/${system.theme}.png</path>
 	<tile>false</tile>
@@ -83,7 +82,7 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<pos>0.028 0.5</pos>
 	<size>0.008 0.65</size>
   </image>
--->
+
 
  <image name="character" extra="true">
 	<path>./_assets/characters/${system.theme}.jpg</path>
@@ -98,7 +97,6 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<tile>false</tile>
 	<origin>1 1</origin>
 	<pos>0.98 0.98</pos>
-	<maxSize>0.25 0.25</maxSize>
   </image>
 
  <helpsystem name="help">
@@ -194,39 +192,24 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 
 </view>
 
-	<feature supported="video">
-		<view name="video">
-			<!-- hide system description -->
-			<text name="longdescription" extra="true">
-				<pos>1 1</pos>
-				<size>0 0</size>
-			</text>
+<feature supported="video">
 
-			<!-- hide game image/screenshot -->
-			<image name="md_image">
-				<pos>1 1</pos>
-				<maxSize>0 0</maxSize>
-				<origin>0 0</origin>
-			</image>
-						
-			<!-- display video in place of image -->
-			<video name="md_video">
-				<pos>0.7 0.4</pos>
-				<origin>0.5 0.5</origin>
-				<maxSize>0.51 0.51</maxSize>
-				<delay>1</delay>
-				<default></default>
-				<showSnapshotNoVideo>true</showSnapshotNoVideo>
-				<showSnapshotDelay>false</showSnapshotDelay>
-			</video>
-		
-			<!-- display marquee in place of description -->
-			<image name="md_marquee">
-				<origin>0.5 0.5</origin>
-				<pos>0.79 0.82</pos>
-				<maxSize>0.25 0.2</maxSize>
-			</image>
-		</view>
-	</feature>
+<view name="video">
+ <video name="md_video">
+	<origin>0.5 0.5</origin>
+	<pos>0.7 0.4</pos>
+	<maxSize>0.51 0.51</maxSize>
+	<delay>0.1</delay>
+	<showSnapshotNoVideo>true</showSnapshotNoVideo>
+	<showSnapshotDelay>false</showSnapshotDelay>
+ </video>
+ 
+ <image name="md_marquee">
+	<origin>1 1</origin>
+	<pos>0.945 0.69</pos>
+	<maxSize>0.2 0.2</maxSize>
+ </image>
+</view>
+</feature>
 
 </theme>
