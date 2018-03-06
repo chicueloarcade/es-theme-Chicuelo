@@ -25,7 +25,7 @@ All sprites separated and the possibility to use a system dot indicator.
 A power menu is included in case you have one.
 
 
-Designed by Chicuelo (Nico La Rosa)
+Designed by Chicuelo - www.chicuelo.com.ar
 
 # Special Thanks:
 
