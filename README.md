@@ -101,15 +101,13 @@ Amiga
 Arcade
 Atari 2600
 Atari Lynx
-FBA
-MAME
-Mame Libretro
+FBA / MAME /Mame Libretro
 Neo Geo
-Nintendo Game boy
-Nintendo Game boy Advance
-Nintendo Game boy Color
+Game boy
+Game boy Color
+Game boy Advance
 Nintendo 64
-Nintendo Entertainment System 
+Nintendo NES
 PCEngine / Turbografx 16
 Playstation 1
 ScummVm
@@ -119,17 +117,20 @@ Sega Dreamcast
 Sega 32x
 Sega CD
 Sega Master System
-Super Nintendo Entertainment System
+Snes
 Sega Megadrive
 Virtual boy
-Retropie setup
-Auto - Favorites
-Auto - Last Played
-Auto - All Games
+Sony Psp
+Ports
+Retropie Setup
+Auto Favorites
+Auto Last Played
+Auto All Games
 Power Menu (in case you have one, name it power o rename the folder)
+
 ```
 
-Systems with the logo but character and controller missing
+Coming Soon
 
 ```
 Apple2
@@ -147,4 +148,5 @@ Sega saturn
 Vectrex
 Wonder swan
 Zxspectrum
+
 ```
