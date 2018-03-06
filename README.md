@@ -56,17 +56,19 @@ Theme Preview:
 
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c70daf56793299.5a901e871da4a.jpg)
 
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/96d39956793299.5a9db48b738d9.jpg)
-
 ![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/4951b556793299.5a9db48b72883.jpg)
+
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/32f47e56793299.5a9ebd73b9482.jpg)
+
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/96d39956793299.5a9db48b738d9.jpg)
 
 ![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/c61c9156793299.5a9db48b72d42.jpg)
 
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/525ed256793299.5a9db48b73439.jpg)
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/c7ae4256793299.5a9ebd73b99f7.jpg)
 
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6a10f156793299.5a901e871eb31.jpg)
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e4607b56793299.5a901e871dd61.jpg)
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/3fbcce56793299.5a9ebd73b9dfb.jpg)
 
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e512056793299.59bc6315a87d6.jpg)
 
@@ -119,11 +121,12 @@ Sega CD
 Sega Master System
 Super Nintendo Entertainment System
 Sega Megadrive
+Virtual boy
 Retropie setup
 Auto - Favorites
 Auto - Last Played
 Auto - All Games
-Power Menu in case you have one, name it power o rename the folder
+Power Menu (in case you have one, name it power o rename the folder)
 ```
 
 Systems with the logo but character and controller missing
@@ -134,7 +137,6 @@ Atari800
 Atari5200
 Atari7800
 atari jaguar
-atari lynx
 C64
 Colecovision
 Game and watch
@@ -143,7 +145,6 @@ Neo geo Pocket
 Neo geo pocket color
 Sega saturn
 Vectrex
-Virtual boy
 Wonder swan
 Zxspectrum
 ```
