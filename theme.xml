@@ -75,6 +75,8 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<size>0.20 0.1</size>
  </text>
  
+<!--
+
  <image name="indicator" extra="true">
 	<path>./_assets/indicators/${system.theme}.png</path>
 	<tile>false</tile>
@@ -83,6 +85,7 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<size>0.008 0.65</size>
   </image>
 
+-->
 
  <image name="character" extra="true">
 	<path>./_assets/characters/${system.theme}.jpg</path>
