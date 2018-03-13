@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="100"
+   width="383.577"
+   height="53.917252"
    id="svg4237"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (unknown)"
    version="1.0"
    sodipodi:docname="psp.svg">
   <defs
@@ -475,8 +475,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="193.82917"
-     inkscape:cy="29.583147"
+     inkscape:cx="185.82917"
+     inkscape:cy="11.583167"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="925"
@@ -484,7 +484,11 @@
      inkscape:window-x="0"
      inkscape:window-y="1"
      showgrid="false"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata4242">
     <rdf:RDF>
@@ -493,7 +497,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -501,7 +505,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(2.322326,-621.78578)">
+     transform="translate(-5.6776741,-649.86855)">
     <path
        style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:0.35559291"
        d="m 75.532272,696.74989 c 3.607489,0 5.772009,-0.31636 5.772009,-1.79356 0,-1.09308 -1.574244,-1.67777 -5.181733,-1.67777 h -4.984942 v 3.47133 z m -6.296775,4.5616 v -8.73625 h 7.411793 c 5.247267,0 6.624722,1.12981 6.624722,2.4404 0,1.95175 -4.066656,2.43756 -7.805366,2.43756 h -4.32904 v 3.85829 h -1.902109"

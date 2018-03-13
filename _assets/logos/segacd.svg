@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="100"
-   viewBox="0 0 105.83333 26.458334"
+   width="387.59198"
+   height="49.50346"
+   viewBox="0 0 102.55037 13.097791"
    version="1.1"
    id="svg8"
    sodipodi:docname="segacd.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="0.92.2 (unknown)">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,17 +26,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4725"
-     inkscape:cx="283.5514"
-     inkscape:cy="9.2287172"
+     inkscape:cx="174.69139"
+     inkscape:cy="-17.491648"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="940"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     units="px" />
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,7 +57,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-270.54165)">
+     transform="translate(-1.939925,-276.83243)">
     <path
        inkscape:connector-curvature="0"
        id="path6225"
