@@ -32,7 +32,7 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<fontSize>0.03</fontSize>
 	<color>818181</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.23 0.25</pos>
+	<pos>0.232 0.25</pos>
 	<size>0.32 0.1</size>
  </text>
 
@@ -46,10 +46,10 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<type>vertical</type>
 	<color>00000000</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.23 0.41</pos>
+	<pos>0.232 0.415</pos>
 	<size>1 .4</size> 
 	<logoScale>0.7</logoScale>
-	<logoSize>0.3 0.4</logoSize>
+	<logoSize>0.3 0.2</logoSize>
 	<maxLogoCount>1</maxLogoCount>
  </carousel>
 
@@ -59,7 +59,7 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<backgroundColor>00000000</backgroundColor>
 	<color>4f5159</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.23 0.77</pos>
+	<pos>0.232 0.77</pos>
 	<size>0.980 0.050</size>
 	<fontSize>0.025</fontSize>
  </text>
@@ -71,7 +71,7 @@ Special thanks to Cosmo0 too who contribute with some art, various logos and imp
 	<fontSize>0.02</fontSize>
 	<color>818181</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.23 0.58</pos>
+	<pos>0.232 0.58</pos>
 	<size>0.20 0.1</size>
  </text>
  
