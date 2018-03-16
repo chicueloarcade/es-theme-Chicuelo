@@ -8,9 +8,7 @@ All the art of this project was created by hand by me and is protected by copyri
 
 
 # Info:
-This design was intended to make a more beautiful and clean experience, with no floating characters, consoles or sprites around the screen.
-
-Just the essential and trying to make a professional and minimal interface, but with a nice impact.
+This design was intended to make a more beautiful and clean experience. Just the essential and trying to make a professional and minimal interface, but with a nice impact.
 
 Every system has an iconic game and character so I tried to show that with the controller so you can easily recognize what system you are going to play. Also it has a short description and info about that system.
 
@@ -25,12 +23,11 @@ All sprites separated and the possibility to use a system dot indicator.
 A power menu is included in case you have one.
 
 
-Designed by Chicuelo - www.chicuelo.com.ar
+Designed in Argentina by Chicuelo - www.chicuelo.com.ar
 
 # Special Thanks:
 
-EctoOne and Keygan for giving me a huge help on the implementation of the theme.  
-I'm very thankful for having the chance to work with you guys!
+EctoOne, Keygan, Cosmo0 and Movisman for giving me a huge help on the implementation of the theme. I'm very thankful for having the chance to work with you guys!
 
 
 
@@ -57,6 +54,10 @@ Theme Preview:
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c70daf56793299.5a901e871da4a.jpg)
 
 ![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/4951b556793299.5a9db48b72883.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ca807456793299.5aa08aa365b7f.jpg)
+
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/d0637656793299.5aac57bbc04ce.jpg)
 
 ![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/32f47e56793299.5a9ebd73b9482.jpg)
 
@@ -98,16 +99,21 @@ Fully supported systems:
 ```
 3do
 Amiga
+Amstrad CPC
 Arcade
 Atari 2600
 Atari Lynx
-FBA / MAME /Mame Libretro
+Commodore 64
+Family Game
+Final Burn Alpha
+MAME / MAME LIBRETRO
 Neo Geo
 Game boy
 Game boy Color
 Game boy Advance
 Nintendo 64
 Nintendo NES
+Nintendo Snes
 PCEngine / Turbografx 16
 Playstation 1
 ScummVm
@@ -117,7 +123,6 @@ Sega Dreamcast
 Sega 32x
 Sega CD
 Sega Master System
-Snes
 Sega Megadrive
 Virtual boy
 Sony Psp
@@ -138,7 +143,6 @@ Atari800
 Atari5200
 Atari7800
 atari jaguar
-C64
 Colecovision
 Game and watch
 Kodi
