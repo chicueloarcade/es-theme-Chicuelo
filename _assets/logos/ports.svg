@@ -5,11 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 105.83333 26.458333"
+   width="400"
    height="100"
-   width="400">
+   viewBox="0 0 105.83333 26.458333"
+   version="1.1"
+   id="svg8">
   <defs
      id="defs2" />
   <metadata
@@ -25,31 +25,36 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-270.54167)"
-     id="layer1">
-    <text
+     style="fill:#ffffff"
+     id="layer1"
+     transform="matrix(1.5368661,0,0,1,-29.973878,-270.54167)">
+    <g
        id="text12"
-       y="299.68042"
-       x="31.391792"
-       style="font-style:normal;font-weight:normal;font-size:30.78525352px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76963127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.76963127px;fill:#ffffff;"
-         y="299.68042"
-         x="31.391792"
-         id="tspan10"><tspan
-           id="tspan3703"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMLeft;-inkscape-font-specification:AmazDooMLeft;stroke-width:0.76963127px;fill:#ffffff;">Port</tspan><tspan
-           id="tspan3713"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMRight;-inkscape-font-specification:AmazDooMRight;stroke-width:0.76963127px;fill:#ffffff;">S</tspan></tspan></text>
-    <flowRoot
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       style="font-style:normal;font-weight:normal;font-size:30.78525352px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76963127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       aria-label="PortS">
+      <path
+         id="path16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMLeft;-inkscape-font-specification:AmazDooMLeft;fill:#ffffff;stroke-width:0.76963127px"
+         d="m 34.77817,283.05638 2.46282,-1.47769 v -5.97234 h -2.46282 z m -3.63266,12.83745 0.246282,-0.58492 v -22.56559 l -0.615705,-0.76963 h 7.665528 l 2.093398,1.2622 v 10.49777 l -5.695272,3.17088 v 5.35663 h 0.769631 z" />
+      <path
+         id="path18"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMLeft;-inkscape-font-specification:AmazDooMLeft;fill:#ffffff;stroke-width:0.76963127px"
+         d="m 49.616181,271.97369 1.385337,1.38534 v 14.06886 l -5.079567,3.72501 -4.27915,-3.41716 v -14.28436 l 1.323766,-1.47769 z m -4.433076,3.66345 v 9.605 l 2.062612,1.75476 v -11.35976 z" />
+      <path
+         id="path20"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMLeft;-inkscape-font-specification:AmazDooMLeft;fill:#ffffff;stroke-width:0.76963127px"
+         d="m 59.812835,271.97369 1.16984,1.44691 v 5.4182 l -2.40125,1.32377 2.40125,1.35455 v 6.21862 l -3.755801,2.43204 v -6.86511 l -2.062612,-1.29299 v 8.28124 l -3.540304,-2.55518 V 273.2051 l 0.954343,-1.23141 z m -4.648573,3.47874 v 2.98616 l 2.062612,-1.23141 v -1.75475 z" />
+      <path
+         id="path22"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMLeft;-inkscape-font-specification:AmazDooMLeft;fill:#ffffff;stroke-width:0.76963127px"
+         d="m 68.039231,276.25284 v 11.4829 l -3.755801,2.83224 v -14.31514 h -2.678317 v -4.27915 h 9.143221 v 4.27915 z" />
+      <path
+         id="path24"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMRight;-inkscape-font-specification:AmazDooMRight;fill:#ffffff;stroke-width:0.76963127px"
+         d="m 80.64002,295.30891 0.246282,0.58492 -9.389503,-7.5116 v -3.10931 h 3.694231 v 0.61571 l 1.754759,1.38533 v -2.64753 l -5.44899,-3.07852 v -8.80459 l -0.615705,-0.76963 h 7.665529 l 2.093397,1.2622 v 3.10931 h -3.694231 v -0.73885 h -2.062612 v 4.587 l 5.756843,3.10932 z" />
+    </g>
+    <g
        id="flowRoot3705"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3707"><rect
-           y="35.350239"
-           x="202.0305"
-           height="64.649765"
-           width="26.263966"
-           id="rect3709" /></flowRegion><flowPara
-         id="flowPara3711"></flowPara></flowRoot>  </g>
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
 </svg>
