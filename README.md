@@ -100,6 +100,7 @@ Fully supported systems:
 3do
 Amiga
 Amstrad CPC
+Apple II
 Arcade
 Atari 2600
 Atari Lynx
@@ -138,7 +139,6 @@ Power Menu (in case you have one, name it power o rename the folder)
 Coming Soon
 
 ```
-Apple2
 Atari800
 Atari5200
 Atari7800
