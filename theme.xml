@@ -210,12 +210,6 @@ Special thanks to @movisman who help making the theme to look beautiful in every
 	<showSnapshotNoVideo>true</showSnapshotNoVideo>
 	<showSnapshotDelay>true</showSnapshotDelay>
  </video>
- 
- <image name="md_marquee">
-	<origin>1 1</origin>
-	<pos>0.945 0.69</pos>
-	<maxSize>0.2 0.2</maxSize>
- </image>
 </view>
 </feature>
 
