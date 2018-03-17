@@ -112,6 +112,7 @@ Neo Geo
 Game boy
 Game boy Color
 Game boy Advance
+Gamecube
 Nintendo 64
 Nintendo NES
 Nintendo Snes
@@ -121,6 +122,7 @@ ScummVm
 Sega Gamegear
 Sega Genesis
 Sega Dreamcast
+Sega Saturn
 Sega 32x
 Sega CD
 Sega Master System
@@ -148,7 +150,6 @@ Game and watch
 Kodi
 Neo geo Pocket
 Neo geo pocket color
-Sega saturn
 Vectrex
 Wonder swan
 Zxspectrum
