@@ -7,7 +7,7 @@
    <text>GAME GENRE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>A Single Screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
+   <text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
   </text>
  </view>
 </theme>
