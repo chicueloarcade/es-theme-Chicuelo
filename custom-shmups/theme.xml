@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text></text>
+   <text>GAME GENRE</text>
   </text>
   <text name="longdescription" extra="true">
    <text>In a shoot 'em up, the player shoots large numbers of enemies while dodging obstacles, often in a spacecraft or aircraft</text>

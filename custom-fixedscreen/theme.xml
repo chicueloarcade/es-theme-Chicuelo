@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text></text>
+   <text>GAME GENRE</text>
   </text>
   <text name="longdescription" extra="true">
    <text>A Single Screen perspective applies to all video games in which the entire playfield is shown on the screen</text>

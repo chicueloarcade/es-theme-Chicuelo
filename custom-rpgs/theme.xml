@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text></text>
+   <text>GAME GENRE</text>
   </text>
   <text name="longdescription" extra="true">
    <text>In a role-playing game, the player controls the actions of one or several characters, immersed in an often fantastical world</text>
