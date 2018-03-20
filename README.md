@@ -4,15 +4,24 @@
 
 This project was done on the GNU license. This means that you can distribute and edit your content as long as you refer to the original author in your version.
 
-All the art of this project was created by hand by me and is protected by copyright law, which I stipulate through this document which may be freely distributed as long as it is not for any commercial means or included in any product for the same purpose.
+
+# IMPORTANT:
+
+This is only a Theme I have created for Retropie. By using this artwork I assume you have the ownership and rights of all the games you are going to play. This is a free theme so you can use it or share but you are not allowed to sell, make money or take any kind of profit wit it.
 
 
-# Info:
-This design was intended to make a more beautiful and clean experience. Just the essential and trying to make a professional and minimal interface, but with a nice impact.
+# Credits:
+Some controllers used on this theme are created by great artists who kindly agreed to include his art on the theme, here you can find their artwork:
 
-Every system has an iconic game and character so I tried to show that with the controller so you can easily recognize what system you are going to play. Also it has a short description and info about that system.
+Ricky Romero - https://dribbble.com/RickyRomero
+David McLeod - https://dribbble.com/Mucx
+Craig Erskine - https://dribbble.com/craigerskine
+Memory Noise - https://dribbble.com/memorynoise
 
-This is only a Theme I have created for retropie. By using this artwork I assume you have the ownership and rights of all the games you are going to play. This is a free theme so you can not sell or make money with this.
+# Special Thanks:
+
+EctoOne, Keygan, Cosmo0 and Movisman for giving me a huge help on the implementation of the theme. I'm very thankful for having the chance to work with you guys!
+
 
 # Features:
 
@@ -25,9 +34,19 @@ A power menu is included in case you have one.
 
 Designed in Argentina by Chicuelo - www.chicuelo.com.ar
 
-# Special Thanks:
 
-EctoOne, Keygan, Cosmo0 and Movisman for giving me a huge help on the implementation of the theme. I'm very thankful for having the chance to work with you guys!
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Notes:
+
+The dot indicator is not included in the Theme, its just a fake indicator made for my systems, so it won't work fine on your setup.
+
+Game screens are not included with the theme, you can scrape your own or use the game box art or videos that it should work fine.
+
+FOR A BETTER USER EXPERIENCE DISABLE ON-SCREEN HELP, SET THE UI TRANSITION STYLE TO INSTANT AND LOGO TRANSITIONS TO NONE
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -81,19 +100,6 @@ Theme Preview:
 Thanks for the support!
 
 
---------------------------------------------------------------------------------------------------------------
-
-# Notes:
-
-The dot indicator is not included in the Theme, its just a fake indicator made for my systems, so it won't work fine on your setup.
-
-Game screens are not included with the theme, you can scrape your own or use the game box art that it should work fine.
-
-FOR A BETTER USER EXPERIENCE DISABLE ON-SCREEN HELP, SET THE UI TRANSITION STYLE TO INSTANT AND LOGO TRANSITIONS TO NONE
-
-
---------------------------------------------------------------------------------------------------------------
-
 Fully supported systems:
 
 ```
@@ -103,6 +109,8 @@ Amstrad CPC
 Apple II
 Arcade
 Atari 2600
+Atari800
+Atari5200
 Atari Lynx
 Commodore 64
 Family Game
@@ -128,8 +136,9 @@ Sega CD
 Sega Master System
 Sega Megadrive
 Virtual boy
-Sony Psp
+Steam
 Ports
+Sony Psp
 Retropie Setup
 Auto Favorites
 Auto Last Played
@@ -141,12 +150,12 @@ Power Menu (in case you have one, name it power o rename the folder)
 Coming Soon
 
 ```
-Atari800
-Atari5200
 Atari7800
-atari jaguar
+Atari jaguar
+Atari ST
 Colecovision
 Game and watch
+Intellivision
 Kodi
 Neo geo Pocket
 Neo geo pocket color
