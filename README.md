@@ -111,6 +111,7 @@ Arcade
 Atari 2600
 Atari800
 Atari5200
+Atari7800
 Atari Lynx
 Commodore 64
 Family Game
@@ -139,18 +140,21 @@ Virtual boy
 Steam
 Ports
 Sony Psp
-Retropie Setup
++
 Auto Favorites
 Auto Last Played
 Auto All Games
++
+Retropie Setup
 Power Menu (in case you have one, name it power o rename the folder)
++
+Custom collections: Beat em up, fighting , fixed screen, Kids, platformers, puzzle, racing, rigs, smash em up, sports, strategy
 
 ```
 
 Coming Soon
 
 ```
-Atari7800
 Atari jaguar
 Atari ST
 Colecovision
@@ -162,5 +166,11 @@ Neo geo pocket color
 Vectrex
 Wonder swan
 Zxspectrum
+DAPHNE
+MSX
+MSX2
+Nintendo DS
+Sega SG1000
+VideoPac (Odyseey2)
 
 ```
