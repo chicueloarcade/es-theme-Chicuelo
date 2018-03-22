@@ -119,12 +119,13 @@ Commodore 64
 Daphne
 Family Game
 Final Burn Alpha
-MAME / MAME LIBRETRO
+MAME
 Neo Geo
 Game boy
 Game boy Color
 Game boy Advance
 Gamecube
+Game and watch
 Nintendo 64
 Nintendo NES
 Nintendo Snes
@@ -132,13 +133,12 @@ PCEngine / Turbografx 16
 Playstation 1
 ScummVm
 Sega Gamegear
-Sega Genesis
+Sega Genesis / Megadrive
 Sega Dreamcast
 Sega Saturn
 Sega 32x
 Sega CD
 Sega Master System
-Sega Megadrive
 Virtual boy
 Steam
 Ports
@@ -159,7 +159,6 @@ Coming Soon
 
 ```
 Colecovision
-Game and watch
 Intellivision
 Kodi
 Neo geo Pocket
