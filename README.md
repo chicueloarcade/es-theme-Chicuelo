@@ -132,6 +132,7 @@ Nintendo Snes
 PCEngine / Turbografx 16
 Playstation 1
 ScummVm
+ResidualVm
 Sega Gamegear
 Sega Genesis / Megadrive
 Sega Dreamcast
