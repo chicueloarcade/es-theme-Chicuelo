@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>8 BIT CONSOLE</text>
+   <text>1985  -  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Master System also featured accessories such as a light gun and 3D glasses which were designed to work with specially coded games</text>
+   <text>Succeeding the SG-1000, the Master System was released as a direct competitor to the Nintendo Entertainment System (NES)</text>
   </text>
  </view>
 </theme>
