@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>64 BIT CONSOLE</text>
+   <text>LASER DISCS CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sixth and last programmable console to be developed under the Atari brand, originally released in North America in November 1993</text>
+   <text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</text>
   </text>
  </view>
 </theme>

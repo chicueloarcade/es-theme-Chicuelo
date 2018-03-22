@@ -113,7 +113,10 @@ Atari800
 Atari5200
 Atari7800
 Atari Lynx
+Atari jaguar
+Atari ST
 Commodore 64
+Daphne
 Family Game
 Final Burn Alpha
 MAME / MAME LIBRETRO
@@ -155,8 +158,6 @@ Custom collections: Beat em up, fighting , fixed screen, Kids, platformers, puzz
 Coming Soon
 
 ```
-Atari jaguar
-Atari ST
 Colecovision
 Game and watch
 Intellivision
@@ -166,7 +167,6 @@ Neo geo pocket color
 Vectrex
 Wonder swan
 Zxspectrum
-DAPHNE
 MSX
 MSX2
 Nintendo DS
