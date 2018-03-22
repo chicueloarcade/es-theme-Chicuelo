@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>32/64 BIT CONSOLE</text>
+   <text>2001  -  '128-BIT' CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Launched in 2001, the Nintendo GameCube was the successor to the Nintendo 64 with crisp 3D graphics and bright colors</text>
+   <text>The Nintendo GameCube is the successor to the Nintendo 64 and is the first Nintendo console to use optical discs as its primary storage medium</text>
   </text>
  </view>
 </theme>

@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>8 BIT CONSOLE</text>
+   <text>1986  -  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>It is almost fully backward-compatible with the Atari 2600, the first console to have backward compatibility without the use of additional modules</text>
+   <text>Almost fully backward-compatible with the Atari 2600, the 7800 was the first console to have backward compatibility without the use of additional modules</text>
   </text>
  </view>
 </theme>

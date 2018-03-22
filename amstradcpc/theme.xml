@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>8 BIT COMPUTER</text>
+   <text>1984  -  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Amstrad CPC is a series of 8-bit home computers produced by Amstrad between 1984 and 1990</text>
+   <text>The Amstrad CPC is a series of 8-bit home computers. The CPC series was pitched against other home computers and enjoyed a strong supply of game software</text>
   </text>
  </view>
 </theme>

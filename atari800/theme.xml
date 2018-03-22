@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>8 BIT COMPUTER</text>
+   <text>1979  -  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 and manufactured until 1992</text>
+   <text>The Atari 8-bit family is a series of 8-bit home computers. All of the machines in the family are technically similar and differ primarily in packaging</text>
   </text>
  </view>
 </theme>
