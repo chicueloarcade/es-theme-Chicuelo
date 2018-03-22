@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>1985  -  16-BIT COMPUTER</text>
+   <text>1985  ·  16-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
    <text>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family</text>

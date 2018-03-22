@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>1977  -  8-BIT CONSOLE</text>
+   <text>1977  ·  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
    <text>The Atari 2600 is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code</text>

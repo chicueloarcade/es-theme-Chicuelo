@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>1982  -  8-BIT CONSOLE</text>
+   <text>1982  ·  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
    <text>Home video game console that was introduced as a higher-end complementary console for the popular Atari 2600</text>
