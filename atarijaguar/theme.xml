@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>64 BIT CONSOLE</text>
+   <text>1993  ·  64-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sixth and last programmable console to be developed under the Atari brand, originally released in North America in November 1993</text>
+   <text>Sixth and last programmable console to be developed under the Atari brand, Atari marketed the Jaguar as being the first 64-bit video game console</text>
   </text>
  </view>
 </theme>

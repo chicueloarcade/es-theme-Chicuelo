@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>16 BIT HANDHELD CONSOLE</text>
+   <text>1989  ·  16-BIT HANDHELD CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>It was the world's first handheld electronic game with a color LCD. It was also notable for its advanced graphics and ambidextrous layout</text>
+   <text>The Lynx was the world's first handheld electronic game with a color LCD and was also notable for its advanced graphics and ambidextrous layout</text>
   </text>
  </view>
 </theme>

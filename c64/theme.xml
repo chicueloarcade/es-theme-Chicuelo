@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>8 BIT COMPUTER</text>
+   <text>1982  ·  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>It is listed in the Guinness World Records as the highest-selling single computer model of all time</text>
+   <text>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time.</text>
   </text>
  </view>
 </theme>

@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>8 BIT CONSOLE</text>
+   <text>1986  ·  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Family Computer is a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986</text>
+   <text>The Family Computer is a peripheral for Nintendo's Family Computer home video game console, released only in Japan</text>
   </text>
  </view>
 </theme>

@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>16 BIT HANDHELD CONSOLE</text>
+   <text>1999  ·  16-BIT HANDHELD CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Neo Geo Pocket Color it is a successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
+   <text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
   </text>
  </view>
 </theme>

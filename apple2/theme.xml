@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>8 BIT COMPUTER</text>
+   <text>1977  ·  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak </text>
+   <text>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak</text>
   </text>
  </view>
 </theme>
