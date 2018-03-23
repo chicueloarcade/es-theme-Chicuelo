@@ -143,6 +143,7 @@ Sega Master System
 Virtual boy
 Steam
 Ports
+PC / MSDOS
 Sony Psp
 +
 Auto Favorites
