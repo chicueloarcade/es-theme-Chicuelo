@@ -52,49 +52,7 @@ FOR A BETTER USER EXPERIENCE DISABLE ON-SCREEN HELP, SET THE UI TRANSITION STYLE
 
 Theme Preview:
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/de6a6e56793299.5a901e871f4d6.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/077cf556793299.5a901e871b78d.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1c7d1f56793299.5a901e871c02c.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/762a7356793299.5a901e871c41f.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/393c5056793299.5a901e871d3ea.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/788da956793299.5a901e871fb25.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/15e02556793299.5a901e871b26a.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b391d456793299.5a901e871af73.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bb07756793299.5a901e871e638.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c70daf56793299.5a901e871da4a.jpg)
-
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/4951b556793299.5a9db48b72883.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ca807456793299.5aa08aa365b7f.jpg)
-
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/d0637656793299.5aac57bbc04ce.jpg)
-
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/32f47e56793299.5a9ebd73b9482.jpg)
-
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/96d39956793299.5a9db48b738d9.jpg)
-
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/c61c9156793299.5a9db48b72d42.jpg)
-
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/c7ae4256793299.5a9ebd73b99f7.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6a10f156793299.5a901e871eb31.jpg)
-
-![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/3fbcce56793299.5a9ebd73b9dfb.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e512056793299.59bc6315a87d6.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/99206456793299.59bc6315a8a85.jpg)
-
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17f18c56793299.59bc6315a8e31.jpg)
+![Image](http://chicuelo.com.ar/archivos/all.jpg)
 
 
 Thanks for the support!
