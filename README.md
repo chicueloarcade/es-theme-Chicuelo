@@ -52,8 +52,15 @@ FOR A BETTER USER EXPERIENCE DISABLE ON-SCREEN HELP, SET THE UI TRANSITION STYLE
 
 Theme Preview:
 
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-1.jpg)![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-2.jpg)![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-3.jpg)![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-4.jpg)![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-5.jpg)
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-6.jpg)![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-7.jpg)![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-8.jpg)![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-9.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo1.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo2.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo3.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo4.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo5.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo6.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo7.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo8.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo9.jpg)
 
 
 Fully supported systems:
