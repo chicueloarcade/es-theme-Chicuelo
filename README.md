@@ -58,6 +58,9 @@ Theme Preview:
 ![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-4.jpg)
 ![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-5.jpg)
 ![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-6.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-7.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-8.jpg)
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo-theme-9.jpg)
 
 
 Fully supported systems:
