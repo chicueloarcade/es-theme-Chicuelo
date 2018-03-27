@@ -80,6 +80,7 @@ Atari jaguar
 Atari ST
 Commodore 64
 Daphne
+Zx Spectrum
 Family Game
 Final Burn Alpha
 MAME
@@ -130,7 +131,6 @@ Neo geo Pocket
 Neo geo pocket color
 Vectrex
 Wonder swan
-Zxspectrum
 MSX
 MSX2
 Nintendo DS
