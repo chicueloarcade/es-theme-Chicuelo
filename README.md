@@ -12,10 +12,10 @@ This is only a Theme I have created for RetroPie. By using this artwork I assume
 
 Some controllers used on this theme are created by great artists who kindly agreed to include their art on the theme - here you can find their artwork:
 
-Ricky Romero - https://dribbble.com/RickyRomero
-David McLeod - https://dribbble.com/Mucx
-Craig Erskine - https://dribbble.com/craigerskine
-Memory Noise - https://dribbble.com/memorynoise
+Ricky Romero - https://dribbble.com/RickyRomero  
+David McLeod - https://dribbble.com/Mucx  
+Craig Erskine - https://dribbble.com/craigerskine  
+Memory Noise - https://dribbble.com/memorynoise  
 
 # Special Thanks:
 
@@ -117,7 +117,7 @@ Auto Favorites
 Auto Last Played
 +
 RetroPie Setup
-Power Menu (in case you have one, name it power o rename the folder)
+Power Menu (in case you have one, name it power or rename the folder)
 +
 Custom collections:
 Action, Adventure, Beat 'em Up, Fighting, Fixed Screen, Kids, Platformers, Puzzle, Racing, RPG, Shoot 'em Up, Sports, Strategy
