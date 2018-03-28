@@ -112,7 +112,8 @@ Special thanks to @movisman who help making the theme to look beautiful in every
 	<path>./_assets/controllers/${system.theme}.png</path>
 	<tile>false</tile>
 	<origin>1 1</origin>
-	<pos>0.98 0.98</pos>
+	<pos>0.9785 0.975</pos>
+	<size>0.275 0.4</size>
   </image>
 
  <helpsystem name="help">
