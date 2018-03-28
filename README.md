@@ -12,10 +12,10 @@ This is only a Theme I have created for RetroPie. By using this artwork I assume
 
 Some controllers used on this theme are created by great artists who kindly agreed to include their art on the theme - here you can find their artwork:
 
-Ricky Romero	- https://dribbble.com/RickyRomero
-David McLeod	- https://dribbble.com/Mucx
-Craig Erskine	- https://dribbble.com/craigerskine
-Memory Noise	- https://dribbble.com/memorynoise
+Ricky Romero - https://dribbble.com/RickyRomero
+David McLeod - https://dribbble.com/Mucx
+Craig Erskine - https://dribbble.com/craigerskine
+Memory Noise - https://dribbble.com/memorynoise
 
 # Special Thanks:
 
@@ -43,7 +43,7 @@ The dot indicator is not included in the Theme, its just a fake indicator made f
 
 Game screens are not included with the theme, you can scrape your own and use game boxart/screenshots and/or videos
 
-** FOR A BETTER USER EXPERIENCE - ADJUST THE FOLLOWING OPTIONS WITHIN EMULATIONSTATION: **
+FOR A BETTER USER EXPERIENCE - ADJUST THE FOLLOWING OPTIONS WITHIN EMULATIONSTATION:
 
 - UI SETTINGS > CAROUSEL TRANSITIONS: NONE
 - UI SETTINGS > TRANSITION STYLE: INSTANT
