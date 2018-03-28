@@ -76,30 +76,30 @@ Atari 2600
 Atari 800
 Atari 5200
 Atari 7800
+Atari Jaguar
 Atari Lynx
-Atari jaguar
 Atari ST
 Commodore 64
 Commodore Amiga
 Daphne
-Family Game
+Family Computer Disk System
 Final Burn Alpha
 MAME
 Neo Geo
-Game Boy
-Game Boy Color
-Game Boy Advance
-Gamecube
 Game and Watch
+Game Boy
+Game Boy Advance
+Game Boy Color
+Gamecube
 Nintendo 64
-Nintendo NES
-Nintendo SNES
+Nintendo Entertainment System (NES)
+Nintendo Super Entertainment System (SNES)
 PC / MSDOS
 PC Engine / Turbografx 16
 Ports
-ResidualVm
+ResidualVM
 ScummVM
-Sony Playstation 1
+Sony Playstation
 Sony PSP
 Steam
 Sega 32x
@@ -110,7 +110,8 @@ Sega Genesis / Megadrive
 Sega Master System
 Sega Saturn
 Virtual Boy
-Zx Spectrum
+WonderSwan Color
+ZX Spectrum
 +
 Auto All Games
 Auto Favorites
@@ -130,15 +131,15 @@ Coming Soon
 Colecovision
 Intellivision
 Kodi
-Neo Geo Pocket
-Neo Geo Pocket Color
-Vectrex
-WonderSwan
 MSX
 MSX2
+Neo Geo Pocket
+Neo Geo Pocket Color
 Nintendo DS
 Sega SG1000
+Vectrex
 VideoPac (Odyssey2)
+WonderSwan
 
 ```
 
