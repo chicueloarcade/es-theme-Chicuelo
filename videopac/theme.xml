@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1978  ·  8-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Videopac was one of the major three home consoles prior to the 1983 video game market crash, along with Atari 2600 and IntelliVision</text>
+  </text>
+ </view>
+</theme>
