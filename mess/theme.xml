@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>ALL CONSOLES / HANDHELDS</text>
+   <text>MULTI HARDWARE EMULATOR</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play every single game across the entire library</text>
+   <text>MESS (Multi Emulator Super System) is a system that emulates a vast quantity of obscure hardware</text>
   </text>
  </view>
 </theme>

@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>ALL CONSOLES / HANDHELDS</text>
+   <text>1981  ·  16-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play every single game across the entire library</text>
+   <text>Released by Texas Instruments, the TI-99/4 series holds the distinction of being the first 16-bit personal computer.</text>
   </text>
  </view>
 </theme>

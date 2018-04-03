@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>ALL CONSOLES / HANDHELDS</text>
+   <text>CUSTOM COLLECTIONS</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play every single game across the entire library</text>
+   <text>Access and quickly play games you have added to your custom collections</text>
   </text>
  </view>
 </theme>

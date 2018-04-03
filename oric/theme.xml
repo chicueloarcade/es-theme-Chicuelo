@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>ALL CONSOLES / HANDHELDS</text>
+   <text>1983  ·  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play every single game across the entire library</text>
+   <text>The Oric was a series of home computers originally released by the Tangerine Computer Systems, including the original Oric-1</text>
   </text>
  </view>
 </theme>

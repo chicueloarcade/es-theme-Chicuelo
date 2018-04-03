@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>ALL CONSOLES / HANDHELDS</text>
+   <text>1981  ·  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play every single game across the entire library</text>
+   <text>The PC-8800 series, commonly shortened to PC-88, are a brand of Zilog Z80-based home computers released by NEC</text>
   </text>
  </view>
 </theme>

@@ -146,7 +146,7 @@ Special thanks to @movisman who help making the theme to look beautiful in every
 	<path>./_assets/logos/${system.theme}.svg</path>
 	<color>4f5159</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.55 0.82</pos>
+	<pos>0.553 0.821</pos>
 	<maxSize>0.16 0.16</maxSize>
  </image>
  
@@ -160,7 +160,7 @@ Special thanks to @movisman who help making the theme to look beautiful in every
 	<fontSize>0.02</fontSize>
 	<color>818181</color>
 	<origin>0.5 0.5</origin>
-	<pos>0.79 0.82</pos>
+	<pos>0.789 0.821</pos>
 	<size>0.25 0.2</size>
  </text>
  
