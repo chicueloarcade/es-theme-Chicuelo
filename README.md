@@ -82,6 +82,7 @@ Atari ST
 Commodore 64
 Commodore Amiga
 Daphne
+Famicom
 Family Computer Disk System
 Final Burn Alpha
 MAME
@@ -140,6 +141,8 @@ Sega SG1000
 Vectrex
 VideoPac (Odyssey2)
 WonderSwan
+ps2
+Nec PC-FX
 
 ```
 
