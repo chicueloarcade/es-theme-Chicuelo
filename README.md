@@ -79,6 +79,7 @@ Atari 7800
 Atari Jaguar
 Atari Lynx
 Atari ST
+Colecovision
 Commodore 64
 Commodore Amiga
 Daphne
@@ -131,7 +132,6 @@ Action, Adventure, Beat 'em Up, Fighting, Fixed Screen, Kids, Platformers, Puzzl
 Coming Soon
 
 ```
-Colecovision
 Intellivision
 MSX
 MSX2
