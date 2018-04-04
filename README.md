@@ -114,6 +114,8 @@ Virtual Boy
 WonderSwan Color
 ZX Spectrum
 +
+Kodi
++
 Auto All Games
 Auto Favorites
 Auto Last Played
@@ -131,7 +133,6 @@ Coming Soon
 ```
 Colecovision
 Intellivision
-Kodi
 MSX
 MSX2
 Neo Geo Pocket
