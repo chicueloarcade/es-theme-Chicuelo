@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1994  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Designed to expand the power of the Megadrive and serve as a transitional console into the 32-bit era until the release of the Sega Saturn</text>
+  </text>
+ </view>
+</theme>
