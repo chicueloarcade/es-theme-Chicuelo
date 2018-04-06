@@ -1,150 +1,266 @@
-# Chicuelo Theme
+## Chicuelo EmulationStation Theme
 
-# Legal Disclaimer:
+**Designed in Argentina by Chicuelo:** \
+http://www.chicuelo.com.ar \
+![http://www.chicuelo.com.ar](https://avatars0.githubusercontent.com/u/35472357?s=100&v=4 "http://www.chicuelo.com.ar")
 
-This project was done on the GNU license. This means that you can distribute and edit your content as long as you refer to the original author in your version.
+**Official RetroPie forum topic:** \
+https://retropie.org.uk/forum/topic/15830/
 
-# IMPORTANT:
+---
 
-This is only a Theme I have created for RetroPie. By using this artwork I assume you have the ownership and rights of all the games you are going to play. This is a free theme so you can use it or share but you are not allowed to sell, make money or take any kind of profit with it.
+### Contents
 
-# Credits:
+[License and Terms](#license) \
+[Thanks and Credits](#thanks-and-credits) \
+[Features](#features) \
+[Installation and Updating](#installation-and-updating) \
+[Compatibility](#compatibility) \
+[Theme Notes](#theme-notes) \
+[Screenshots](#screenshots) \
+[Supported Systems](#supported-systems) \
+[Using an Alternative System](#using-an-alternative-system)
 
-Some controllers used on this theme are created by great artists who kindly agreed to include their art on the theme - here you can find their artwork:
+---
 
-Ricky Romero - https://dribbble.com/RickyRomero  
-David McLeod - https://dribbble.com/Mucx  
-Craig Erskine - https://dribbble.com/craigerskine  
-Memory Noise - https://dribbble.com/memorynoise  
+### License
 
-# Special Thanks:
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
+![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Licence")
 
-EctoOne, Keygan, Cosmo0 and Movisman for giving me a huge help on the implementation of the theme. I'm very thankful for having the chance to work with you guys!
+#### This means you are free to:
+**Share** - copy and redistribute the material in any medium or format \
+**Adapt** - remix, transform, and build upon the material
 
-------------------------------------------------------------------------------------------------------------------------------------------
+#### Under the following terms:
+**Attribution** - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. \
+**ShareAlike** - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. \
+**NonCommercial** - You may ***not*** use the material for commercial purposes.
 
-# Features:
+### Please note:
+This is a theme created for use in RetroPie via the EmulationStation frontend. By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
 
-Compatible and tested with both 1080p (1920x1080) and 720p (1280x720) resolutions
+###### [back to top](#chicuelo-emulationstation-theme)
 
-Favorites, Recent and Library game list.
+---
 
-All sprites separated and the possibility to use a system dot indicator.
+### Thanks and Credits
 
-A power menu is included in case you have one.
+Thanks to EctoOne, Keygan, Cosmo0 and Movisman for giving me a huge help with the implementation of the theme. I'm very thankful for having the chance to work with you guys!
 
-Designed in Argentina by Chicuelo - www.chicuelo.com.ar
+Some controllers used in this theme are created by great artists who kindly agreed to include their art within the theme - here you can find their artwork:
 
-------------------------------------------------------------------------------------------------------------------------------------------
+Ricky Romero - https://dribbble.com/RickyRomero \
+David McLeod - https://dribbble.com/Mucx \
+Craig Erskine - https://dribbble.com/craigerskine \
+Memory Noise - https://dribbble.com/memorynoise
 
-# Notes:
+###### [back to top](#chicuelo-emulationstation-theme)
 
-The dot indicator is not included in the Theme, its just a fake indicator made for my systems, so it won't work correctly on your setup.
+---
 
-Game screens are not included with the theme, you can scrape your own and use game boxart/screenshots and/or videos
+### Features
 
-FOR A BETTER USER EXPERIENCE - ADJUST THE FOLLOWING OPTIONS WITHIN EMULATIONSTATION:
+* Unique custom artwork for every system
+* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
+* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
+* Support for various 'alternative' systems (such as TG-16, Famicom, etc)
+* Power menu 'system' included (for users that require one)
+* Video capable
+* Support for screenshots/boxart and/or video. Marquees are not utilised in this theme.
+
+###### [back to top](#chicuelo-emulationstation-theme)
+
+---
+
+### Installation and Updating
+
+To install the theme, use the theme installer built into RetroPie-Setup. You can follow this guide: \
+https://github.com/RetroPie/RetroPie-Setup/wiki/themes
+
+You can also update the theme within RetroPie-Setup: \
+RetroPie Setup Script >> Configuration / Tools >> esthemes
+
+**For an improved user experience - once the theme is active, adjust the following options within EmulationStation:**
 
 - UI SETTINGS > CAROUSEL TRANSITIONS: NONE
 - UI SETTINGS > TRANSITION STYLE: INSTANT
 - UI SETTINGS > ON-SCREEN HELP: OFF
 
-------------------------------------------------------------------------------------------------------------------------------------------
+###### [back to top](#chicuelo-emulationstation-theme)
 
-# Theme Preview:
+---
 
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo1.jpg)
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo2.jpg)
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo3.jpg)
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo4.jpg)
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo5.jpg)
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo6.jpg)
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo7.jpg)
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo8.jpg)
+### Compatibility
+
+**This theme is designed for a 16:9 aspect ratio. Currently the theme is not fully compatible with a 4:3 aspect ratio.** It has been tested with both 1080p (1920x1080) and 720p (1280x720) resolutions. Other 16:9 resolutions will likely work with no issue due to the scaling that EmulationStation performs.
+
+Tested on Raspberry Pi and Ubuntu based x86 PCs.
+
+###### [back to top](#chicuelo-emulationstation-theme)
+
+---
+
+### Theme Notes
+
+This theme supports video. You can also use a scraped image in conjunction with the video. If you scrape both, when a game is selected, it will show the screenshot for a couple of seconds before fading and playing the video.
+
+The dot indicator is not included in the theme - it is just a fake indicator made for my personal use, so it will not work correctly on your setup.
+
+Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
+
+###### [back to top](#chicuelo-emulationstation-theme)
+
+---
+
+### Screenshots
+
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo1.jpg) \
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo2.jpg) \
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo3.jpg) \
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo4.jpg) \
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo5.jpg) \
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo6.jpg) \
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo7.jpg) \
+![Image](http://www.chicuelo.com.ar/archivos/chicuelo8.jpg) \
 ![Image](http://www.chicuelo.com.ar/archivos/chicuelo9.jpg)
 
-------------------------------------------------------------------------------------------------------------------------------------------
+###### [back to top](#chicuelo-emulationstation-theme)
 
-# Fully supported systems:
+---
 
-```
-3DO
-Amstrad CPC
-Apple II
-Arcade
-Atari 2600
-Atari 800
-Atari 5200
-Atari 7800
-Atari Jaguar
-Atari Lynx
-Atari ST
-Colecovision
-Commodore 64
-Commodore Amiga
-Daphne
-Famicom
-Family Computer Disk System
-Final Burn Alpha
-MAME
-Neo Geo
-Game and Watch
-Game Boy
-Game Boy Advance
-Game Boy Color
-Gamecube
-Nintendo 64
-Nintendo Entertainment System (NES)
-Nintendo Super Entertainment System (SNES)
-PC / MSDOS
-PC Engine / Turbografx 16
-Ports
-ResidualVM
-ScummVM
-Sony Playstation
-Sony PSP
-Steam
-Sega 32x
-Sega CD
-Sega Dreamcast
-Sega Game Gear
-Sega Genesis / Megadrive
-Sega Master System
-Sega Saturn
-Virtual Boy
-WonderSwan Color
+### Supported Systems
+
+3DO \
+Amstrad CPC \
+Apple II \
+Arcade \
+Atari 2600 \
+Atari 800 \
+Atari 5200 \
+Atari 7800 \
+Atari Jaguar \
+Atari Lynx \
+Atari ST \
+Colecovision \
+Commodore 64 \
+Commodore Amiga \
+Daphne \
+Family Computer Disk System \
+Final Burn Alpha \
+MAME \
+Neo Geo \
+Game and Watch \
+Game Boy \
+Game Boy Advance \
+Game Boy Color \
+Gamecube \
+Nintendo 64 \
+Nintendo Entertainment System (NES) \
+Nintendo Super Entertainment System (SNES) \
+PC / MSDOS \
+PC Engine / TurboGrafx 16 \
+Ports \
+ResidualVM \
+ScummVM \
+Sony Playstation \
+Sony PSP \
+Steam \
+SEGA 32x \
+SEGA CD \
+SEGA Dreamcast \
+SEGA Game Gear \
+SEGA Megadrive \
+SEGA Master System \
+SEGA Saturn \
+Virtual Boy \
+WonderSwan \
+WonderSwan Color \
 ZX Spectrum
-+
-Kodi
-+
-Auto All Games
-Auto Favorites
+
+**System Variations:** \
+Famicom / Family Computer \
+TurboGrafx 16 \
+SEGA Genesis \
+SEGA MEGA-32X \
+SEGA MEGA-CD
+
+**Other:** \
+Kodi \
+RetroPie Setup \
+Power Menu (in case you have one, name it 'power' or rename the folder)
+
+**Collections:** \
+Auto All Games \
+Auto Favorites \
 Auto Last Played
-+
-RetroPie Setup
-Power Menu (in case you have one, name it power or rename the folder)
-+
-Custom collections:
+
+**Custom Collections:** \
 Action, Adventure, Beat 'em Up, Fighting, Fixed Screen, Kids, Platformers, Puzzle, Racing, RPG, Shoot 'em Up, Sports, Strategy
 
-```
+## Partially Supported Systems
+###### (logo and description complete, however no character background or controller/machine image is present at this time):
 
-Coming Soon
+Intellivision \
+MSX \
+Neo Geo Pocket \
+Neo Geo Pocket Color \
+Nintendo DS \
+SEGA SG-1000 \
+Vectrex \
+VideoPac \
+Sony Playstation 2 \
+NEC PC-FX \
+Nintendo DS \
+Nintendo Wii \
+Apple Macintosh \
+Dragon 32/64 \
+Sharp x68000 \
+Tandy Colour Computer (coco) \
+Oric Home Computer \
+PC 8800 Computer Series \
+Sam Coupe \
+TI-99/4A Home Computer \
+Tandy TRS-80 \
+MESS \
+Z-Machine
 
-```
-Intellivision
-MSX
-MSX2
-Neo Geo Pocket
-Neo Geo Pocket Color
-Nintendo DS
-Sega SG1000
-Vectrex
-VideoPac (Odyssey2)
-WonderSwan
-ps2
-Nec PC-FX
+**Collections:** \
+Custom Collections (for when a user creates their own collection within ES)
 
-```
+**System Variations:** \
+Odyssey 2 \
+Super Famicom
 
-------------------------------------------------------------------------------------------------------------------------------------------
+###### [back to top](#chicuelo-emulationstation-theme)
+
+---
+
+### Using an Alternative System
+
+There are various ways of using an alternative system instead of the primary system (TurboGrafx-16 instead of PC-Engine for example), but here is one example:
+
+RetroPie uses a file called platforms.cfg to generate the system configurations for es_systems.cfg. You can create a custom platforms.cfg and this will override the default system for regional variants such as the Sega Genesis instead of Megadrive, TurboGrafx instead of PC-Engine, Magnavox Odyssey instead of the Videopac, etc.
+
+To do this, create a platforms.cfg in: \
+/opt/retropie/configs/all/platforms.cfg
+
+name, extensions, platform (used by es for scraping), and the theme can be overridden, see [HERE](https://github.com/RetroPie/RetroPie-Setup/blob/master/platforms.cfg) for the default platforms.cfg
+
+However, the below is an example of changing the theme elements only. Here is a valid platforms.cfg:
+
+megadrive_theme="genesis"  
+nes_theme="famicom"  
+pcengine_theme="tg16" 
+sega32x_theme="mega32x" 
+segacd_theme="megacd"  
+snes_theme="sfc"  
+videopac_theme="odyssey2"
+
+**Note that with any custom platforms.cfg you create, you'll need to update at least one emulator for every system you changed in order to generate a new es_systems.cfg with the changes from platforms.cfg.**
+
+###### [back to top](#chicuelo-emulationstation-theme)
+
+---
+
+###### README.md written by [@movisman](https://github.com/movisman)
