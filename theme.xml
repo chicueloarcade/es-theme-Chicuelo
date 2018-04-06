@@ -5,7 +5,7 @@ website:        www.chicuelo.com.ar
 
 font:           Roboto-Medium.ttf
 
-# Thanks and Credits:
+# Thanks and Credits
 Some controllers used in this theme are created by great artists who kindly agreed to include their art within the theme - here you can find their artwork:
 
 Ricky Romero - https://dribbble.com/RickyRomero
@@ -16,6 +16,9 @@ Memory Noise - https://dribbble.com/memorynoise
 Special thanks to @EctoOne who helped on the improvement of this theme and it looks great in any resolution - thanks to him!
 Special thanks to @cosmo0 who contributed with some art, various logos and important information for each system!
 Special thanks to @movisman who helped make the theme to look beautiful in every resolution, and for providing various logos and system information!
+
+# License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please see README.md for full details.
 -->
 
 <theme>
