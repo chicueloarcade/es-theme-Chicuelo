@@ -3,24 +3,22 @@ theme name:     Chicuelo
 author:         Nico La Rosa - Chicuelo
 website:        www.chicuelo.com.ar
 
-font: Roboto-Medium.ttf
+font:           Roboto-Medium.ttf
 
-
-# Credits:
-Some controllers used on this theme are created by great artists who kindly agreed to include his art on the theme, here you can find their artwork:
+# Thanks and Credits
+Some controllers used in this theme are created by great artists who kindly agreed to include their art within the theme - here you can find their artwork:
 
 Ricky Romero - https://dribbble.com/RickyRomero
 David McLeod - https://dribbble.com/Mucx
 Craig Erskine - https://dribbble.com/craigerskine
 Memory Noise - https://dribbble.com/memorynoise
 
+Special thanks to @EctoOne who helped on the improvement of this theme and it looks great in any resolution - thanks to him!
+Special thanks to @cosmo0 who contributed with some art, various logos and important information for each system!
+Special thanks to @movisman who helped make the theme to look beautiful in every resolution, and for providing various logos and system information!
 
-Special thanks to @EctoOne who help on the improvement of this theme and it looks great in any resolution thanks him!
-
-Special thanks to @cosmo0 who contribute with some art, various logos and important information of each system!
-
-Special thanks to @movisman who help making the theme to look beautiful in every resolution!
-
+# License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please see README.md for full details.
 -->
 
 <theme>
