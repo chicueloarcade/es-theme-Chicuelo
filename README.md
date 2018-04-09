@@ -125,61 +125,6 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ![Image](http://www.chicuelo.com.ar/archivos/chicuelo8.jpg) \
 ![Image](http://www.chicuelo.com.ar/archivos/chicuelo9.jpg)
 
-<<<<<<< HEAD
-------------------------------------------------------------------------------------------------------------------------------------------
-
-# Fully supported systems:
-
-```
-3DO
-Amstrad CPC
-Apple II
-Arcade
-Atari 2600
-Atari 800
-Atari 5200
-Atari 7800
-Atari Jaguar
-Atari Lynx
-Atari ST
-Colecovision
-Commodore 64
-Commodore Amiga
-Daphne
-Famicom
-Family Computer Disk System
-Final Burn Alpha
-Intellivision
-MAME
-Neo Geo
-Game and Watch
-Game Boy
-Game Boy Advance
-Game Boy Color
-Gamecube
-Nintendo 64
-Nintendo Entertainment System (NES)
-Nintendo Super Entertainment System (SNES)
-PC / MSDOS
-PC Engine / Turbografx 16
-Ports
-ResidualVM
-ScummVM
-Sony Playstation
-Sony PSP
-Steam
-Sega 32x
-Sega CD
-Sega Dreamcast
-Sega Game Gear
-Sega Genesis / Megadrive
-Sega Master System
-Sega Saturn
-Vectrex
-Virtual Boy
-WonderSwan
-WonderSwan Color
-=======
 ###### [back to top](#chicuelo-emulationstation-theme)
 
 ---
@@ -203,6 +148,7 @@ Commodore Amiga \
 Daphne \
 Family Computer Disk System \
 Final Burn Alpha \
+Intellivision \
 MAME \
 Neo Geo \
 Game and Watch \
@@ -228,10 +174,10 @@ SEGA Game Gear \
 SEGA Megadrive \
 SEGA Master System \
 SEGA Saturn \
+Vectrex \
 Virtual Boy \
 WonderSwan \
 WonderSwan Color \
->>>>>>> d2f5f7c15f123b66c909a759f046ec8e03aaf286
 ZX Spectrum
 
 **System Variations:** \
@@ -257,13 +203,11 @@ Action, Adventure, Beat 'em Up, Fighting, Fixed Screen, Kids, Platformers, Puzzl
 ## Partially Supported Systems
 ###### (logo and description complete, however no character background or controller/machine image is present at this time):
 
-Intellivision \
 MSX \
 Neo Geo Pocket \
 Neo Geo Pocket Color \
 Nintendo DS \
 SEGA SG-1000 \
-Vectrex \
 VideoPac \
 Sony Playstation 2 \
 NEC PC-FX \
@@ -315,21 +259,9 @@ videopac_theme="odyssey2"
 
 **Note that with any custom platforms.cfg you create, you'll need to update at least one emulator for every system you changed in order to generate a new es_systems.cfg with the changes from platforms.cfg.**
 
-<<<<<<< HEAD
-```
-MSX
-MSX2
-Neo Geo Pocket
-Neo Geo Pocket Color
-Nintendo DS
-Sega SG1000
-VideoPac (Odyssey2)
-ps2
-Nec PC-FX
-=======
 ###### [back to top](#chicuelo-emulationstation-theme)
->>>>>>> d2f5f7c15f123b66c909a759f046ec8e03aaf286
 
 ---
 
 ###### README.md written by [@movisman](https://github.com/movisman)
+
