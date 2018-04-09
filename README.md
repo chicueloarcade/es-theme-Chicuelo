@@ -86,6 +86,7 @@ Daphne
 Famicom
 Family Computer Disk System
 Final Burn Alpha
+Intellivision
 MAME
 Neo Geo
 Game and Watch
@@ -111,7 +112,9 @@ Sega Game Gear
 Sega Genesis / Megadrive
 Sega Master System
 Sega Saturn
+Vectrex
 Virtual Boy
+WonderSwan
 WonderSwan Color
 ZX Spectrum
 +
@@ -132,16 +135,13 @@ Action, Adventure, Beat 'em Up, Fighting, Fixed Screen, Kids, Platformers, Puzzl
 Coming Soon
 
 ```
-Intellivision
 MSX
 MSX2
 Neo Geo Pocket
 Neo Geo Pocket Color
 Nintendo DS
 Sega SG1000
-Vectrex
 VideoPac (Odyssey2)
-WonderSwan
 ps2
 Nec PC-FX
 
