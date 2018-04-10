@@ -230,6 +230,7 @@ Custom Collections (for when a user creates their own collection within ES)
 
 **System Variations:** \
 Odyssey 2 \
+SuperGrafx \
 Super Famicom
 
 ###### [back to top](#chicuelo-emulationstation-theme)
