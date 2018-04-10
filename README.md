@@ -171,8 +171,8 @@ SEGA 32x \
 SEGA CD \
 SEGA Dreamcast \
 SEGA Game Gear \
-SEGA Megadrive \
 SEGA Master System \
+SEGA Megadrive \
 SEGA Saturn \
 Vectrex \
 Virtual Boy \
@@ -182,9 +182,11 @@ ZX Spectrum
 
 **System Variations:** \
 Famicom / Family Computer \
+Super Famicom \
+PC Engine CD-ROM² \
+SuperGrafx \
 TurboGrafx-16 \
 TurboGrafx-CD \
-PC Engine CD-ROM² \
 SEGA Genesis \
 SEGA MEGA-32X \
 SEGA MEGA-CD
@@ -231,9 +233,7 @@ Z-Machine
 Custom Collections (for when a user creates their own collection within ES)
 
 **System Variations:** \
-Odyssey 2 \
-SuperGrafx \
-Super Famicom
+Odyssey 2
 
 ###### [back to top](#chicuelo-emulationstation-theme)
 
