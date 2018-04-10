@@ -160,7 +160,7 @@ Nintendo 64 \
 Nintendo Entertainment System (NES) \
 Nintendo Super Entertainment System (SNES) \
 PC / MSDOS \
-PC Engine / TurboGrafx 16 \
+PC Engine \
 Ports \
 ResidualVM \
 ScummVM \
@@ -182,7 +182,9 @@ ZX Spectrum
 
 **System Variations:** \
 Famicom / Family Computer \
-TurboGrafx 16 \
+TurboGrafx-16 \
+TurboGrafx-CD \
+PC Engine CD-ROM² \
 SEGA Genesis \
 SEGA MEGA-32X \
 SEGA MEGA-CD
@@ -230,6 +232,7 @@ Custom Collections (for when a user creates their own collection within ES)
 
 **System Variations:** \
 Odyssey 2 \
+SuperGrafx \
 Super Famicom
 
 ###### [back to top](#chicuelo-emulationstation-theme)
