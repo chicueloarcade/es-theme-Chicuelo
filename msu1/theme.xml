@@ -1,1 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
 
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2000  ·  16-BIT CONSOLE ENHACED</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>MSU1, also named "Media Streaming Unit revision 1", is a homemade enhancement chip made by byuu for the SNES.</text>
+  </text>
+ </view>
+</theme>
