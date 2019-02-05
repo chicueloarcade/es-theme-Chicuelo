@@ -58,7 +58,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<color>00000000</color>
 	<origin>0.5 0.5</origin>
 	<pos>0.232 0.415</pos>
-	<size>1 .4</size> 
+	<size>1 0.16</size> 
 	<logoScale>0.7</logoScale>
 	<logoSize>0.3 0.2</logoSize>
 	<maxLogoCount>1</maxLogoCount>
@@ -116,10 +116,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
  <helpsystem name="help">
     <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
-    <fontSize>0.019</fontSize>
-	<pos>0.05 0.97</pos>
-	<textColor>23232f</textColor>
-    <iconColor>23232f</iconColor>
+    <fontSize>0.021</fontSize>
+	<pos>0.054 0.975</pos>
+	<textColor>818181</textColor>
+    <iconColor>818181</iconColor>
  </helpsystem>
   
 </view>
@@ -181,10 +181,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 <helpsystem name="help">
     <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
-    <fontSize>0.020</fontSize>
-	<pos>0.48 0.96</pos>
-	<textColor>23232f</textColor>
-    <iconColor>23232f</iconColor>
+    <fontSize>0.021</fontSize>
+	<pos>0.054 0.975</pos>
+	<textColor>818181</textColor>
+    <iconColor>818181</iconColor>
 </helpsystem>
 
 <!-- Hide Unused Elements -->	
@@ -204,18 +204,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
  <image name="md_image">
 	<origin>0.5 0.5</origin>
 	<pos>0.6925 0.3915</pos>
-	<maxSize>0.4292 0.5297</maxSize>
+	<maxSize>0.4167 0.5556</maxSize>
  </image>
 </view>
 
 <feature supported="video">
-
 <view name="video">
  <video name="md_video">
 	<origin>0.5 0.5</origin>
 	<pos>0.6925 0.3915</pos>
-	<maxSize>0.4292 0.5297</maxSize>
-	<delay>2</delay>
+	<maxSize>0.4167 0.5556</maxSize>
+	<delay>1.5</delay>
 	<showSnapshotNoVideo>true</showSnapshotNoVideo>
 	<showSnapshotDelay>true</showSnapshotDelay>
  </video>
