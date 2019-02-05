@@ -81,11 +81,19 @@ https://github.com/RetroPie/RetroPie-Setup/wiki/themes
 You can also update the theme within RetroPie-Setup: \
 RetroPie Setup Script >> Configuration / Tools >> esthemes
 
-**For an improved user experience - once the theme is active, adjust the following options within EmulationStation:**
+**Default theme options - for an improved user experience, once the theme is active, adjust the following options within EmulationStation:**
 
 - UI SETTINGS > CAROUSEL TRANSITIONS: NONE
 - UI SETTINGS > TRANSITION STYLE: INSTANT
 - UI SETTINGS > ON-SCREEN HELP: OFF
+
+**However, if you wish to enable the on-screen help change the following option:**
+
+- UI SETTINGS > ON-SCREEN HELP: ON
+
+**If you wish to enable a 'slide' effect for the logo when transitioning between systems, change the following option:**
+
+- UI SETTINGS > CAROUSEL TRANSITIONS: ON
 
 ###### [back to top](#chicuelo-emulationstation-theme)
 
