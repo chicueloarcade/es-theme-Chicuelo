@@ -187,6 +187,14 @@ Vectrex \
 Virtual Boy \
 WonderSwan \
 WonderSwan Color \
+Sony Playstation 2 \
+Neo Geo Pocket \
+Neo Geo Pocket Color \
+Nintendo DS \
+SEGA SG-1000 \
+Nintendo DS \
+Nintendo Wii \
+Nintendo Wii-U \
 ZX Spectrum
 
 **System Variations:** \
@@ -217,15 +225,8 @@ Action, Adventure, Beat 'em Up, Fighting, Fixed Screen, Kids, Platformers, Puzzl
 ###### (logo and description complete, however no character background or controller/machine image is present at this time):
 
 MSX \
-Neo Geo Pocket \
-Neo Geo Pocket Color \
-Nintendo DS \
-SEGA SG-1000 \
 VideoPac \
-Sony Playstation 2 \
 NEC PC-FX \
-Nintendo DS \
-Nintendo Wii \
 Apple Macintosh \
 Dragon 32/64 \
 Sharp x68000 \
