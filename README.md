@@ -157,14 +157,22 @@ Commodore Amiga \
 Daphne \
 Family Computer Disk System \
 Final Burn Alpha \
-Intellivision \
-MAME \
-Neo Geo \
 Game and Watch \
 Game Boy \
 Game Boy Advance \
 Game Boy Color \
 Gamecube \
+Intellivision \
+MAME \
+MSX \
+MSX2 \
+Neo Geo \
+Neo Geo Pocket \
+Neo Geo Pocket Color \
+Nintendo DS \
+Nintendo DS \
+Nintendo Wii \
+Nintendo Wii-U \
 Nintendo 64 \
 Nintendo Entertainment System (NES) \
 Nintendo Super Entertainment System (SNES) \
@@ -174,8 +182,10 @@ Ports \
 ResidualVM \
 ScummVM \
 Sony Playstation \
+Sony Playstation 2 \
 Sony PSP \
 Steam \
+SEGA SG-1000 \
 SEGA 32x \
 SEGA CD \
 SEGA Dreamcast \
@@ -187,14 +197,6 @@ Vectrex \
 Virtual Boy \
 WonderSwan \
 WonderSwan Color \
-Sony Playstation 2 \
-Neo Geo Pocket \
-Neo Geo Pocket Color \
-Nintendo DS \
-SEGA SG-1000 \
-Nintendo DS \
-Nintendo Wii \
-Nintendo Wii-U \
 ZX Spectrum
 
 **System Variations:** \
@@ -224,7 +226,7 @@ Action, Adventure, Beat 'em Up, Fighting, Fixed Screen, Kids, Platformers, Puzzl
 ## Partially Supported Systems
 ###### (logo and description complete, however no character background or controller/machine image is present at this time):
 
-MSX \
+
 VideoPac \
 NEC PC-FX \
 Apple Macintosh \
