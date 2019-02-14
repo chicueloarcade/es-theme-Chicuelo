@@ -181,6 +181,7 @@ PC Engine \
 Ports \
 ResidualVM \
 ScummVM \
+Sharp x68000 \
 Sony Playstation \
 Sony Playstation 2 \
 Sony PSP \
@@ -231,7 +232,6 @@ VideoPac \
 NEC PC-FX \
 Apple Macintosh \
 Dragon 32/64 \
-Sharp x68000 \
 Tandy Colour Computer (coco) \
 Oric Home Computer \
 PC 8800 Computer Series \
