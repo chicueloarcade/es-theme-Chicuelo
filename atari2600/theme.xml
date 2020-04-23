@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>CONSOLA 128 BYTES</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Popularizó el uso de hardware basado en microprocesadores y cartuchos ROM que contenian el código del juego</text>
+  </text>
+ </view>
+</theme>

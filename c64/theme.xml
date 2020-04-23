@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COMPUTADORA 8 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>La C64 fue catalogada en los Records Guinness como la computadora personal más vendida de todos los tiempos</text>
+  </text>
+ </view>
+</theme>

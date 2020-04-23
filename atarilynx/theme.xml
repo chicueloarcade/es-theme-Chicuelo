@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>PORTÁTIL 16 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Fue la primer video consola portátil en incluir una pantalla LCD a color. Notable también por sus gráficos avanzados y su layout ambidiestro</text>
+  </text>
+ </view>
+</theme>
