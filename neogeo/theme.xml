@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>CONSOLA 24 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Originalmente lanzada como MVS, una máquina operada a monedas. Rankeada 19° entre las 25 mejores consolas de videojuegos de todos los tiempos</text>
+  </text>
+ </view>
+</theme>

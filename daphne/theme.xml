@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>LASERDISCS CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</text>
+  </text>
+ </view>
+</theme>

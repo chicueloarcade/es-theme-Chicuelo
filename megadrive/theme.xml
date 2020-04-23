@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>CONSOLA 16 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Tercera consola de Sega y sucesora de Master System. Lanzada inicialmente como Mega Drive en Japón en 1988</text>
+  </text>
+ </view>
+</theme>

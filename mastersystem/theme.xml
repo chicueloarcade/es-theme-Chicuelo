@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>CONSOLA 8 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>La Master System incluyó accesorios como la Light Gun y Anteojos 3D programados para funcionar con juegos especialmente diseñados</text>
+  </text>
+ </view>
+</theme>

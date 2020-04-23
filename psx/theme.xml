@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>CONSOLA 32 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Lanzada en 1994 para competir con el Nintendo 64 y el Sega Saturn, como parte de la quinta generación de consolas de video juegos</text>
+  </text>
+ </view>
+</theme>

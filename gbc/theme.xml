@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>PORTÁTIL 8 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Ligeramente más gruesa, alta y con una pantalla más pequeña que el Gameboy Pocket, e introdujo una pantalla a color</text>
+  </text>
+ </view>
+</theme>

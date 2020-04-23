@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME GENRE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
+  </text>
+ </view>
+</theme>

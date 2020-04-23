@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>PERIFÉRICO 32 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Diseñado para expandir las capacidades de la Genesis y como transición hacia la era 32-bits hasta el lanzamiento de la Sega Saturn</text>
+  </text>
+ </view>
+</theme>

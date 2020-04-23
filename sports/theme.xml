@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME GENRE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Most sports have been recreated with a game, including team sports, track and field, extreme sports and combat sports</text>
+  </text>
+ </view>
+</theme>

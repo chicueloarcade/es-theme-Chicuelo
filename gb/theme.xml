@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>PORTÁTIL 8 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Segunda consola portátil de Nintendo, luego de las series Game & Watch introducidas en 1980. Competia principalmente con Game Gear y Lynx</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>PORTÁTIL 8 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Este portátil compartió mucho de su hardware con la Master System y era capaz de reproducir tanto sus propios títulos como los de la Master System</text>
+  </text>
+ </view>
+</theme>

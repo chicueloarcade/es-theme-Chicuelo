@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>APAGADO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Opciones para apagar o reiniciar el sistema de forma segura</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>CONSOLA 32 BIT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Lanzada como la primer consola capaz de mostrar gráficos estereoscópicos 3D utilizando un efecto parallax para crear la ilusión de profundidad</text>
+  </text>
+ </view>
+</theme>
