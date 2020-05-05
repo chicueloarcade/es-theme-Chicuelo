@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>PORTÁTIL 16 BIT</text>
+   <text>1989  ·  16-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Fue la primer video consola portátil en incluir una pantalla LCD a color. Notable también por sus gráficos avanzados y su layout ambidiestro</text>
+   <text>The Lynx was the world's first handheld electronic game with a color LCD and was also notable for its advanced graphics and ambidextrous layout</text>
   </text>
  </view>
 </theme>

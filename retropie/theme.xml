@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>CONFIGURACIÓN</text>
+   <text>System Configuration</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configuración de las conexiones Bluetooth & WiFi. Sólo para configuraciones avanzadas</text>
+   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
   </text>
  </view>
 </theme>

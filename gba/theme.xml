@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>PORTÁTIL 32 BIT</text>
+   <text>2001  ·  32-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sucesora de la Game Boy Color, Competia en el mercado con la Nego Geo Pocket Color y la Nokia N-Gage</text>
+   <text>Successor to the Game Boy Color. Market competitors at the time were the Neo Geo Pocket Color, Wonder Swan, GP32 and the N-Gage</text>
   </text>
  </view>
 </theme>

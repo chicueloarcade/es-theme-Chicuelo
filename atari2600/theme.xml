@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>CONSOLA 128 BYTES</text>
+   <text>1977  ·  128 BYTES CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Popularizó el uso de hardware basado en microprocesadores y cartuchos ROM que contenian el código del juego</text>
+   <text>The Atari 2600 is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code</text>
   </text>
  </view>
 </theme>

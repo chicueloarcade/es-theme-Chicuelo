@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>ARCADES CLÁSICOS</text>
+   <text>Coin Operated Cabinet</text>
   </text>
   <text name="longdescription" extra="true">
-   <text> Máquinas recreativas operadas con monedas o fichas. La era dorada abarcó el período entre 1970 y fines de 1980</text>
+   <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
   </text>
  </view>
 </theme>

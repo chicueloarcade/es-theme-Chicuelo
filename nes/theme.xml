@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>CONSOLA 8 BIT</text>
+   <text>1983  ·  8-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>La consola más vendida de todos los tiempos. La NES ayudó a revitalizar la industria de videojuegos luego de la crisis de este mercado en 1983</text>
+   <text>The best selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983</text>
   </text>
  </view>
 </theme>

@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>PORTÁTIL 8 BIT</text>
+   <text>1998  ·  8-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Ligeramente más gruesa, alta y con una pantalla más pequeña que el Gameboy Pocket, e introdujo una pantalla a color</text>
+   <text>The Game Boy Color features a color screen. It is slightly thicker and taller and features a slightly smaller screen then the Game Boy Pocket</text>
   </text>
  </view>
 </theme>

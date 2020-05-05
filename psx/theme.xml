@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>CONSOLA 32 BIT</text>
+   <text>1994  ·  32-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Lanzada en 1994 para competir con el Nintendo 64 y el Sega Saturn, como parte de la quinta generación de consolas de video juegos</text>
+   <text>The Sony PlayStation primarily competed with the Nintendo 64 and the Sega Saturn as part of the fifth generation of video game consoles</text>
   </text>
  </view>
 </theme>

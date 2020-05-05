@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>CONSOLA 8 BIT</text>
+   <text>1985  ·  8-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>La Master System incluyó accesorios como la Light Gun y Anteojos 3D programados para funcionar con juegos especialmente diseñados</text>
+   <text>Succeeding the SG-1000, the Master System was released as a direct competitor to the Nintendo Entertainment System</text>
   </text>
  </view>
 </theme>

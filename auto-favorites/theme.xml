@@ -4,10 +4,10 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>FAVORITOS</text>
+   <text>FAVORITES</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Administrá tus juegos, agregalos en esta lista para acceder rápidamente a todos tus títulos favoritos</text>
+   <text>Access and quickly play your favorite games across the entire library</text>
   </text>
  </view>
 </theme>
