@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>FAVORITES</text>
+   <text>FAVORITE TITLES</text>
   </text>
   <text name="longdescription" extra="true">
    <text>Access and quickly play your favorite games across the entire library</text>
