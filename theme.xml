@@ -86,7 +86,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<size>0.20 0.1</size>
  </text>
  
-
+<!--
 
  <image name="indicator" extra="true">
 	<path>./_assets/indicators/${system.theme}.png</path>
@@ -96,7 +96,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<size>0.006 0.60</size>
   </image>
 
-
+-->
 
  <image name="character" extra="true">
 	<path>./_assets/characters/${system.theme}.jpg</path>

@@ -202,6 +202,7 @@ ZX Spectrum
 
 **System Variations:** \
 Famicom / Family Computer \
+Neo Geo CD \
 Super Famicom \
 PC Engine CD-ROM² \
 SuperGrafx \

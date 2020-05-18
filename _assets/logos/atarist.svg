@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
-
 <svg
-   xmlns:ns="&amp;ns_sfw;"
+   xmlns:ns="&amp;#38;#38;ns_sfw;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,12 +12,12 @@
    id="Ebene_2"
    x="0px"
    y="0px"
-   width="566.92902"
-   height="92.933998"
-   viewBox="0 0 566.929 92.934"
+   width="576.92902"
+   height="102.934"
+   viewBox="0 0 576.929 102.934"
    xml:space="preserve"
-   sodipodi:docname="system.svg"
-   inkscape:version="0.92.2 (unknown)"><defs
+   sodipodi:docname="atarist.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><defs
      id="defs39" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,21 +28,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1055"
+     inkscape:window-height="1017"
      id="namedview37"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
      inkscape:zoom="0.48154177"
-     inkscape:cx="283.46451"
-     inkscape:cy="46.467003"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="288.46451"
+     inkscape:cy="51.467003"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Ebene_2" /><metadata
+     inkscape:current-layer="Ebene_2"
+     inkscape:document-rotation="0"
+     lock-margins="true" /><metadata
      id="metadata2"><ns:sfw><ns:slices /><ns:sliceSourceBounds
          x="677.036"
          y="493.033"
@@ -54,7 +54,8 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><g
      id="g34"
-     style="fill:#ffffff"><g
+     style="fill:#ffffff"
+     transform="translate(5,5)"><g
        id="g14"
        style="fill:#ffffff"><path
          d="m 162.729,4.833 c 3.574,-4.573 10.968,-5.354 15.352,-1.521 1.792,1.512 3.048,3.597 3.689,5.837 8.115,27.926 16.267,55.834 24.372,83.762 -4.791,0.003 -9.582,-0.008 -14.371,0.003 -2.258,-7.694 -4.463,-15.41 -6.693,-23.114 -9.26,-0.027 -18.519,-0.008 -27.777,-0.011 -2.269,7.701 -4.505,15.411 -6.733,23.13 -4.763,-0.021 -9.525,-0.008 -14.29,-0.011 7.71,-26.638 15.428,-53.272 23.175,-79.901 0.921,-2.786 1.265,-5.9 3.276,-8.174 m 8.454,17.11 c -3.396,11.568 -6.723,23.16 -10.098,34.734 6.73,0.03 13.458,0.011 20.186,0.011 -3.368,-11.581 -6.72,-23.163 -10.088,-34.745 z"
