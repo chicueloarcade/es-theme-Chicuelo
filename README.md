@@ -123,16 +123,16 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 
 ### Screenshots
 
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo1.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo2.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo3.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo4.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo5.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo6.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo7.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo8.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo9.jpg?) \
-![Image](http://www.chicuelo.com.ar/archivos/chicuelo10.jpg?)
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo1.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo2.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo3.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo4.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo5.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo6.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo7.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo8.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo9.jpg?) \
+![Image](https://www.chicuelo.com.ar/archivos/chicuelo10.jpg?)
 
 ###### [back to top](#chicuelo-emulationstation-theme)
 
@@ -202,7 +202,6 @@ ZX Spectrum
 
 **System Variations:** \
 Famicom / Family Computer \
-Neo Geo CD \
 Super Famicom \
 PC Engine CD-ROM² \
 SuperGrafx \
