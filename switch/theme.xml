@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2017  ·  64-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Nintendo Switch is a hybrid video game console, consisting of a console, a dock, and two Joy-Con controllers. Although it is a hybrid console, Nintendo calls it "a home console that you can take with you on the go"</text>
+  </text>
+ </view>
+</theme>
